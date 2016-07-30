@@ -1,0 +1,40 @@
+<NotepadPlus>
+    <Project name="flask">
+        <Folder name="static">
+            <File name="flask\static\404.jpg" />
+        </Folder>
+        <Folder name="templates">
+            <File name="flask\templates\404.html" />
+            <File name="flask\templates\hello.html" />
+            <File name="flask\templates\index.html" />
+            <File name="flask\templates\index6.html" />
+            <File name="flask\templates\layout.html" />
+            <File name="flask\templates\login.html" />
+        </Folder>
+        <Folder name="uploads">
+            <File name="flask\uploads\pass.txt" />
+        </Folder>
+        <File name="flask\test1.py" />
+        <File name="flask\test2.py" />
+        <File name="flask\test3.py" />
+        <File name="flask\test4.py" />
+        <File name="flask\test5.py" />
+        <File name="flask\test6.py" />
+        <File name="flask\test7.py" />
+        <File name="flask\test8.py" />
+        <File name="flask\test9.py" />
+        <File name="flask\test10.py" />
+    </Project>
+    <Project name="flaskr">
+        <Folder name="static">
+            <File name="flaskr\static\style.css" />
+        </Folder>
+        <Folder name="templates">
+            <File name="flaskr\templates\layout.html" />
+            <File name="flaskr\templates\login.html" />
+            <File name="flaskr\templates\show_entries.html" />
+        </Folder>
+        <File name="flaskr\flaskr.py" />
+        <File name="flaskr\schema.sql" />
+    </Project>
+</NotepadPlus>
